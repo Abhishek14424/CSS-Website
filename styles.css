@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1{
+    color: #1A4D2E;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento',cursive;
+    line-height: 2;
+    
+}
+.h2top{
+    color: #1A4D2E;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h2{
+    color: #FF9F29;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.skill-row h2{
+    color: #000000;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 3000;
+    font-size: 26px;
+}
+.sp{
+    text-align: justify ;
+}
+.top-container{
+    background-color: #000000;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container{
+    background-color: #1A4D2E;
+    padding-bottom: 15px;
+}
+.hr{
+    border-style: none;
+    border-top-style: dotted;
+    background-color: #1A4D2E;
+    border-color: whitesmoke;
+    border-width: 10px;
+    height: 0;
+    width: 5%;
+    margin-top: 40px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-left: 47.5%;
+}
+.contact-me{
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+}
+.contact-me h3{
+    color: azure;
+}
+.contact-me p{
+    color: azure;
+}
+span{
+    text-decoration: underline;
+}
+.profile{
+    padding-top: 20px;
+}
+.profile p{
+    color: azure;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    color: azure;
+    font-size: 16px;
+    font-weight: 0;
+}
+.skillpic1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skillpic2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    font-weight: 400;
+    color: #fff2ff;
+    font-size: 15px;
+    background: #FF9F29;
+    padding: 12px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #000000;
+    text-decoration: none;
+  }
+  
+  .bottom-container{
+    height: 80px;
+    margin: 0px;
+    background-color: #FF9F29;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .bottom-container p{
+    margin: 0px;
+    color: azure;
+    font-size: 12px;
+    line-height: 4;
+  }
+  .footer-link{
+    font-family: 'Montserrat',sans-serif;
+    color: azure;
+    font-size: 18px;
+    
+    text-decoration: none;
+  }
+  
